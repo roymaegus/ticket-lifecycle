@@ -49,19 +49,9 @@ On the right, click “Browse *:80”
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
-<h4>Double-click PHP Manager</h4>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-</p>
 
 <br />
 
 
 
 
-<h2>Congratulations, hopefully it is installed with no errors!</h2>
-<h4>- Browse to your help desk login page: http://localhost/osTicket/scp/login.php</h4>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
