@@ -5,11 +5,6 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -27,22 +22,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - IIS (Internet Information Service)
 
 
-<img src="images/2 - BusinessOutageTicket.PNG" alt="BusinessOutageTicket" width="50%" height="50%">
-<img src="images/3 - personalComputerIssuses.PNG" alt="personalComputerIssuses" width="50%" height="50%">
-<img src="images/4 - janeLogin.PNG" alt="janeLogin" width="50%" height="50%">
-<img src="images/5 - adminViewOfTickets.PNG" alt="adminViewOfTickets" width="50%" height="50%">
-
-
-
-
-
-
-
 <h2>Create a new ticket</h2>
 <img src="images/1 - openNewTicket.PNG" alt="openNewTicket" width="50%" height="50%">
 <h5>Jane's ticket view</h5>
 <img src="images/6 - janeTicketView.PNG" alt="janeTicketView" width="50%" height="50%">
-
 
 
 <h2>SEV - A Example</h2>
@@ -68,11 +51,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <h2>SEV-B Example</h2>
-On the right, click “Browse *:80”
+
 <p>
-  <h5></h5>
+  <h5>Here's another example of a reworketed ticked. SEV-B this time.</h5>
 <img src="images/14 - adobeDownTicketRework.PNG" alt="adobeDownTicketRework" width="50%" height="50%">
-  <h5></h5>
+  <h5>Here's a comment that says the Admin has reassigned a task to a worker named John. John has been notified by the Admin.</h5>
 <img src="images/15 - postAboutReassign.PNG" alt="postAboutReassign" width="50%" height="50%">
 </p>
 <br />
@@ -81,7 +64,7 @@ On the right, click “Browse *:80”
 <h2>SEV-C Example</h2>
 <h4>Go back to IIS, sites -> Default -> osTicket</h4>
 <p>
-  <h5></h5>
+  <h5>Here's another example of a reworketed ticked. SEV-C this time.</h5>
 <img src="images/16 - hardwareTicket.PNG" alt="hardwareTicket" width="50%" height="50%">
   <h5></h5>
 <img src="images/17 - hardwareResponse.PNG" alt="hardwareResponse" width="50%" height="50%">
