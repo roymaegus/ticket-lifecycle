@@ -57,6 +57,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="images/14 - adobeDownTicketRework.PNG" alt="adobeDownTicketRework" width="50%" height="50%">
   <h5>Here's a comment that says the Admin has reassigned a task to a worker named John. John has been notified by the Admin.</h5>
 <img src="images/15 - postAboutReassign.PNG" alt="postAboutReassign" width="50%" height="50%">
+<h5>John has provided some addition information about a temporary solution and has provided information that states that he is working on a permanent solution.</h5>
+<img src="images/18 - JohnResponse.PNG" alt="JohnResponse" width="50%" height="50%">
 </p>
 <br />
 
@@ -66,10 +68,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
   <h5>Here's another example of a reworketed ticked. SEV-C this time.</h5>
 <img src="images/16 - hardwareTicket.PNG" alt="hardwareTicket" width="50%" height="50%">
-  <h5></h5>
+  <h5>This ticket has been resolved by providing additional information to Karen!</h5>
 <img src="images/17 - hardwareResponse.PNG" alt="hardwareResponse" width="50%" height="50%">
-  <h5></h5>
-<img src="images/18 - JohnResponse.PNG" alt="JohnResponse" width="50%" height="50%">
+ 
 </p>
 
 <br />
